@@ -1,0 +1,37 @@
+# Personal Portfolio Website
+
+## About
+This is my personal portfolio website created to showcase my education, skills, projects, achievements, experience, resume, and contact information.
+
+## Technologies Used
+- HTML
+- CSS
+- JavaScript
+
+## Projects
+
+### 1. Blood Bank Management System
+A website for managing blood donation information and blood bank services.
+
+### 2. Student Management System
+A Python-based application for managing student records.
+
+### 3. Spam Email Detection
+A Machine Learning project that classifies emails as spam or not spam.
+
+## Features
+- Responsive portfolio design
+- About Me section
+- Skills section
+- Projects section
+- Education section
+- Achievements and Certifications
+- Experience and Internship
+- Resume
+- Contact form
+
+## Deployment
+The portfolio website is deployed using Vercel.
+
+## Author
+Gudi Srihitha
