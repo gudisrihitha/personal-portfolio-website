@@ -226,10 +226,10 @@ footer {
     }
 }
 .home-content .profile-photo {
-    width: 80px !important;
-    height: 80px !important;
-    max-width: 80px !important;
-    max-height: 80px !important;
+    width: 130px !important;
+    height: 130px !important;
+    max-width: 130px !important;
+    max-height: 130px !important;
     border-radius: 50%;
     object-fit: cover;
     display: block;}
