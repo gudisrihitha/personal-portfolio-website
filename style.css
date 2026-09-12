@@ -225,12 +225,17 @@ footer {
         padding: 60px 5%;
     }
 }
+.home-content {
+    text-align: center;
+}
+
 .home-content .profile-photo {
-    width: 130px !important;
-    height: 130px !important;
-    max-width: 130px !important;
-    max-height: 130px !important;
+    width: 150px !important;
+    height: 150px !important;
+    max-width: 150px !important;
+    max-height: 150px !important;
     border-radius: 50%;
     object-fit: cover;
-    display: block;}
+    display: block;
+    margin: 0 auto 20px auto;}
 
