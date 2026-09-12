@@ -230,10 +230,10 @@ footer {
 }
 
 .home-content .profile-photo {
-    width: 200px !important;
-    height: 200px !important;
-    max-width: 200px !important;
-    max-height: 200px !important;
+    width: 2300px !important;
+    height: 230px !important;
+    max-width: 230px !important;
+    max-height: 230px !important;
     border-radius: 50%;
     object-fit: cover;
     display: block;
