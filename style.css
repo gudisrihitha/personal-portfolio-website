@@ -224,11 +224,10 @@ footer {
         padding: 60px 5%;
     }
 }
-profile-photo {
-    width: 100px;
-    height: 100px;
+home-content .profile-photo {
+    width: 80px !important;
+    height: 80px !important;
+    max-width: 80px !important;
     border-radius: 50%;
     object-fit: cover;
-    border: 3px solid white;
-    margin-bottom: 15px;
 }
